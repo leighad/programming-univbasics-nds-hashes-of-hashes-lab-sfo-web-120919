@@ -35,7 +35,13 @@ def naming_system
   # So, if have "Kingdom" node we can "tunnel" into the HoH all the way to Species!
   
 giant_hash = {
-  
+  PORTION_1 {
+    PORTION_2 {
+      PORTION_3 {
+        PORTION_4
+      }
+    }
+  }
 } 
 
 end
