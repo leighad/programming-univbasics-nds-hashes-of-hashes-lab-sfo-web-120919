@@ -41,7 +41,7 @@ giant_hash =
     label: "Phylum",
     sub_category: {
       label: "Class",
-        label: "Order",
+        {label: "Order"},
          label: "Family",
          sub_category: {
            label: "Genus",
