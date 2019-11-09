@@ -34,6 +34,8 @@ def naming_system
   # Remember: Kingdom Phylum Class Order Family Genus Species
   # So, if have "Kingdom" node we can "tunnel" into the HoH all the way to Species!
   
- 
+giant_hash = {
+  
+} 
 
 end
