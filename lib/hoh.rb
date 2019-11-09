@@ -34,20 +34,20 @@ def naming_system
   # Remember: Kingdom Phylum Class Order Family Genus Species
   # So, if have "Kingdom" node we can "tunnel" into the HoH all the way to Species!
   
-giant_hash = 
-{
-  label: "Kingdom",
-  sub_category: {
-    label: "Phylum",
-    sub_category: {
-      label: "Class",
-        label: "Order",
-         label: "Family",
-         sub_category: {
-           label: "Genus",
-           label: "Species",
-           sub_category: nil}
-    }
-  }
-}
+# giant_hash = 
+# {
+#   label: "Kingdom",
+#   sub_category: {
+#     label: "Phylum",
+#     sub_category: {
+#       label: "Class",
+#         label: "Order",
+#         label: "Family",
+#         sub_category: {
+#           label: "Genus",
+#           label: "Species",
+#           sub_category: nil}
+#     }
+#   }
+# }
 end
